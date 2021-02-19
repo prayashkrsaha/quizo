@@ -1,2 +1,1 @@
-# Quizo
-
+# Quiz-o-nation
